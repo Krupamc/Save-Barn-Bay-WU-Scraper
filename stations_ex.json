@@ -1,0 +1,84 @@
+{
+  "offline_checks_before_alert": 3,
+  "delay_seconds": 1,
+  "default_recipients": [
+    "yyy@yyyy.com"
+  ],
+
+  "smtp": {
+    "host": "smtp.xxxx.com",
+    "port": 587,
+    "username": "xxx@xxxx.com",
+    "password": "xxxxxxxxxxxxxxxxxxx",
+    "from_email": "xxx@xxxx.com"
+  },
+
+  "stations": [
+    {
+      "station_id": "KNJBERKE13",
+      "name": "Island Beach State Park Bathhouse #1",
+      "url": "https://www.wunderground.com/dashboard/pws/KNJBERKE13"
+    },
+
+    {
+      "station_id": "KNJWARET3",
+      "name": "Sedge Island",
+      "url": "https://www.wunderground.com/dashboard/pws/KNJWARET3"
+    },
+
+    {
+      "station_id": "KNJMANAH111",
+      "name": "Stafford Municipal Complex",
+      "url": "https://www.wunderground.com/dashboard/pws/KNJMANAH111"
+    },
+
+    {
+      "station_id": "KNJWARET3",
+      "name": "MATES/Stafford",
+      "url": "https://www.wunderground.com/dashboard/pws/KNJMANAH7"
+    },
+
+    {
+      "station_id": "KNJBAYHE18",
+      "name": "Bayhead Fire Company #1",
+      "url": "https://www.wunderground.com/dashboard/pws/KNJBAYHE18"
+    },
+
+    {
+      "station_id": "KNJLONGB89",
+      "name": "LBT Marine Field Station",
+      "url": "https://www.wunderground.com/dashboard/pws/KNJLONGB89"
+    },
+    
+    {
+      "station_id": "KNJLONGB21",
+      "name": "LBI Foundation",
+      "url": "https://www.wunderground.com/dashboard/pws/KNJLONGB21"
+    },
+
+    {
+      "station_id": "KNJBEACH64",
+      "name": "Beachwood Yacht Club",
+      "url": "https://www.wunderground.com/dashboard/pws/KNJBEACH64"
+    },
+
+    {
+      "station_id": "KNJOCEAN178",
+      "name": "Ocean Gate Yacht Club",
+      "url": "https://www.wunderground.com/dashboard/pws/KNJOCEAN178"
+    },
+
+    {
+      "station_id": "KNJSEASI44",
+      "name": "Seaside Park Yacht Club",
+      "url": "https://www.wunderground.com/dashboard/pws/KNJSEASI44"
+    },
+
+    {
+      "station_id": "KNJWARET3",
+      "name": "SBB Ecosystem (Unknown)",
+      "url": "https://www.wunderground.com",
+      "recipients": []
+    }
+  ]
+}
