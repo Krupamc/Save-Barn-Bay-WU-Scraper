@@ -15,6 +15,9 @@
 * Other notification methods will be added if asked
 ---
 
+### Delete the wu_staion_state.json before use: New one will be generated.
+---
+
 ### Packages used:
 * requests:
   * Basic Web Curling.
