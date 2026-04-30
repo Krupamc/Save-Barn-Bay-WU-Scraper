@@ -1,9 +1,9 @@
 # Weather Underground Station Status Check:
 
 * This program checks if a station is online, offline, or in a error state. 
- * If a station is off (configerable) 3 times in a row, an email will be sent saying it went down.
- * If a station is online, nothing happens.
- * If a station is in a error/unknown state, it will not be counted in the 3 times to be off.
+  * If a station is off (configerable) 3 times in a row, an email will be sent saying it went down.
+  * If a station is online, nothing happens.
+  * If a station is in a error/unknown state, it will not be counted in the 3 times to be off.
 
 ---
 
@@ -16,12 +16,12 @@
 ---
 
 ### Packages used:
-* requests
- * Basic Web Curling 
+* requests:
+  * Basic Web Curling.
 * beautifulsoup4
- * Webscraping 
+  * Webscraping 
 * playwright
- * Headless browser
+  * Headless browser
 
 #### Commands for packages:
 * pip install requests beautifulsoup4 playwright
