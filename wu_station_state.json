@@ -1,74 +1,56 @@
 {
-  "KNEOMAHA130": {
-    "consecutive_offline": 1,
-    "alert_sent": true,
-    "last_status": "offline",
-    "last_checked": "2026-04-29T17:26:20.597251+00:00"
-  },
-  "KNJWESTF29": {
-    "consecutive_offline": 0,
-    "alert_sent": false,
-    "last_status": "online",
-    "last_checked": "2026-04-29T21:21:30.580899+00:00"
-  },
-  "KNJMANAH7": {
-    "consecutive_offline": 3,
-    "alert_sent": true,
-    "last_status": "offline",
-    "last_checked": "2026-04-29T21:21:30.580899+00:00"
-  },
   "KNJBERKE13": {
     "consecutive_offline": 0,
     "alert_sent": false,
     "last_status": "online",
-    "last_checked": "2026-04-29T23:11:07.843605+00:00"
+    "last_checked": "2026-04-30T02:52:39.059781+00:00"
   },
   "KNJWARET3": {
     "consecutive_offline": 1,
-    "alert_sent": true,
+    "alert_sent": false,
     "last_status": "unknown",
-    "last_checked": "2026-04-29T23:11:07.843605+00:00"
+    "last_checked": "2026-04-30T02:52:39.059781+00:00"
   },
   "KNJMANAH111": {
     "consecutive_offline": 0,
     "alert_sent": false,
     "last_status": "online",
-    "last_checked": "2026-04-29T23:11:07.843605+00:00"
+    "last_checked": "2026-04-30T02:52:39.059781+00:00"
   },
   "KNJBAYHE18": {
     "consecutive_offline": 0,
     "alert_sent": false,
     "last_status": "online",
-    "last_checked": "2026-04-29T23:11:07.843605+00:00"
+    "last_checked": "2026-04-30T02:52:39.059781+00:00"
   },
   "KNJLONGB89": {
     "consecutive_offline": 0,
     "alert_sent": false,
     "last_status": "online",
-    "last_checked": "2026-04-29T23:11:07.843605+00:00"
+    "last_checked": "2026-04-30T02:52:39.059781+00:00"
   },
   "KNJLONGB21": {
     "consecutive_offline": 0,
     "alert_sent": false,
     "last_status": "online",
-    "last_checked": "2026-04-29T23:11:07.843605+00:00"
+    "last_checked": "2026-04-30T02:52:39.059781+00:00"
   },
   "KNJBEACH64": {
-    "consecutive_offline": 9,
-    "alert_sent": true,
+    "consecutive_offline": 1,
+    "alert_sent": false,
     "last_status": "offline",
-    "last_checked": "2026-04-29T23:11:07.843605+00:00"
+    "last_checked": "2026-04-30T02:52:39.059781+00:00"
   },
   "KNJOCEAN178": {
     "consecutive_offline": 0,
     "alert_sent": false,
     "last_status": "online",
-    "last_checked": "2026-04-29T23:11:07.843605+00:00"
+    "last_checked": "2026-04-30T02:52:39.059781+00:00"
   },
   "KNJSEASI44": {
     "consecutive_offline": 0,
     "alert_sent": false,
     "last_status": "online",
-    "last_checked": "2026-04-29T23:11:07.843605+00:00"
+    "last_checked": "2026-04-30T02:52:39.059781+00:00"
   }
 }

@@ -66,13 +66,13 @@ def fetch_station_status_playwright(page, url: str) -> dict:
     page.goto(url, wait_until="domcontentloaded", timeout=60000)
 
     # 2) Give the Angular app a moment to kick in
-    page.wait_for_timeout(4000)
+    page.wait_for_timeout(2000)
 
     status = "unknown"
     observed_text = None
 
     try:
-        page.wait_for_timeout(1000)
+        page.wait_for_timeout(500)
 
         spans = page.query_selector_all("span")
         online_text = None
@@ -190,7 +190,7 @@ def check_stations(config: dict) -> List[StationResult]:
                 )
             )
 
-            time.sleep(config.get("delay_seconds", 2))
+            time.sleep(config.get("delay_seconds", 0.75))
 
         browser.close()
 
